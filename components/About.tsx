@@ -19,9 +19,9 @@ export default function About() {
           transition={{ duration: 0.5, delay: 0.2 }}
           className="text-lg md:text-xl text-gray-700 max-w-3xl mx-auto text-center"
         >
-          I'm a passionate AI and Machine Learning engineer with 2+ years of experience in developing cutting-edge solutions. 
+          I&apos;m a passionate AI and Machine Learning engineer with 2+ years of experience in developing cutting-edge solutions. 
           My expertise lies in natural language processing, computer vision, and predictive analytics. 
-          I thrive on solving complex problems and pushing the boundaries of what's possible with AI.
+          I thrive on solving complex problems and pushing the boundaries of what&apos;s possible with AI.
         </motion.p>
       </div>
     </section>
